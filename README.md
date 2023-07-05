@@ -1,6 +1,6 @@
 # Consola 101 - First hand
 
-[Read my article (FR)](https://esteban-soubiran.site/articles/consola-101-premiere-prise-en-main/) to learn Consola !
+[Read my article (FR)](https://esteban-soubiran.site/articles/consola-101-premiere-prise-en-main/) to learn Consola!
 
 ## Install dependencies
 
